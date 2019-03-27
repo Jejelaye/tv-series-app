@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "539e2e1305a892fb056e",
+    "revision": "8655a5ba384002ec8551",
     "url": "jejelaye/github.io/tv-series-app/static/css/main.d6876f8f.chunk.css"
   },
   {
-    "revision": "539e2e1305a892fb056e",
-    "url": "jejelaye/github.io/tv-series-app/static/js/main.539e2e13.chunk.js"
+    "revision": "8655a5ba384002ec8551",
+    "url": "jejelaye/github.io/tv-series-app/static/js/main.8655a5ba.chunk.js"
   },
   {
-    "revision": "79b91df757618215c979",
-    "url": "jejelaye/github.io/tv-series-app/static/js/1.79b91df7.chunk.js"
+    "revision": "94e4b4972fb2fb878c6c",
+    "url": "jejelaye/github.io/tv-series-app/static/js/1.94e4b497.chunk.js"
   },
   {
     "revision": "9666fcb89d6b26a5b3be",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "jejelaye/github.io/tv-series-app/static/media/ajax-loader.24b51230.gif"
   },
   {
-    "revision": "18c465a29d21c959e14636f0661ef093",
+    "revision": "3823f71e68786b442e7a9488b3ef3ef1",
     "url": "jejelaye/github.io/tv-series-app/index.html"
   }
 ];
